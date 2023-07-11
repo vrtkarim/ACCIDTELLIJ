@@ -3,33 +3,36 @@ ACCIDTELLIJ: une conception permet de surveiller en temps réel les accidents ro
 
 
       Exemple d’extraction de caractéristiques :
-![Screenshot 2023-07-11 181246](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/e956ff21-844a-44de-a2fa-e843ee6f07a8)
+![Screenshot 2023-07-11 181246](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/0b687316-b162-45f1-bcec-6fae40b85f7d)
+
 
 
       Descente de Gradient :
-![Screenshot 2023-07-11 181510](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/c96f1214-efad-4ad0-9617-1dd1e5ae75d5)
+
+![Screenshot 2023-07-11 181510](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/79e2b4fe-4ee1-4555-9ac4-187e430c77dd)
 
 
       Schéma du système:
-![image](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/d01ce9d2-c935-4cdd-bc03-47d9afc38142)
+
+![ç](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/d93fa41c-1361-407e-aa46-3fddb29fc6d4)
 
 
       Architecture du modèle Machine Learning:
-![image](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/347b03ba-444b-4440-bca2-65b6275e6c63)
+![Screenshot 2023-07-11 181854](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/93fadcef-da4b-4614-a0bd-c780b8910664)
 
 
       Création du site web :
-![image](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/b7ee8bda-8be9-4309-828d-9903027627e6)
+![Screenshot 2023-07-11 191247](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/26d53741-039b-4466-9576-861f0d51d7bb)
 
 
       Résultats:
-![image](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/1778d938-6f98-46bc-a1a3-b9a135948afc)
-![image](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/b4c971c6-1088-4770-b639-35fc5fc64b02)
-![image](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/8ef2819a-71a2-4375-9caa-2aa7bc0109c7)
 
 
 
 
+![Screenshot 2023-07-11 191413](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/230e009e-1204-4a87-8a99-6c1bf7df7f88)
+![Screenshot 2023-07-11 191448](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/f53515f3-fc09-4bff-a366-7c45890fd0a1)
+![Screenshot 2023-07-11 191509](https://github.com/vrtkarim/ACCIDTELLIJ/assets/109855615/f780909c-3f5f-48ab-91eb-69a029196879)
 
 
 
